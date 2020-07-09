@@ -1,0 +1,13 @@
+{
+  "main": "../bundles/mtxCheckboxGroup.umd.js",
+  "module": "../fesm5/mtxCheckboxGroup.js",
+  "es2015": "../fesm2015/mtxCheckboxGroup.js",
+  "esm5": "../esm5/checkbox-group/mtxCheckboxGroup.js",
+  "esm2015": "../esm2015/checkbox-group/mtxCheckboxGroup.js",
+  "fesm5": "../fesm5/mtxCheckboxGroup.js",
+  "fesm2015": "../fesm2015/mtxCheckboxGroup.js",
+  "typings": "mtxCheckboxGroup.d.ts",
+  "metadata": "mtxCheckboxGroup.metadata.json",
+  "sideEffects": false,
+  "name": "@ng-matero/extensions/checkbox-group"
+}

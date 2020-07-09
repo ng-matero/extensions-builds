@@ -1,0 +1,13 @@
+{
+  "main": "../bundles/mtxAlert.umd.js",
+  "module": "../fesm5/mtxAlert.js",
+  "es2015": "../fesm2015/mtxAlert.js",
+  "esm5": "../esm5/alert/mtxAlert.js",
+  "esm2015": "../esm2015/alert/mtxAlert.js",
+  "fesm5": "../fesm5/mtxAlert.js",
+  "fesm2015": "../fesm2015/mtxAlert.js",
+  "typings": "mtxAlert.d.ts",
+  "metadata": "mtxAlert.metadata.json",
+  "sideEffects": false,
+  "name": "@ng-matero/extensions/alert"
+}

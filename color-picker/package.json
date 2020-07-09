@@ -1,0 +1,13 @@
+{
+  "main": "../bundles/mtxColorPicker.umd.js",
+  "module": "../fesm5/mtxColorPicker.js",
+  "es2015": "../fesm2015/mtxColorPicker.js",
+  "esm5": "../esm5/color-picker/mtxColorPicker.js",
+  "esm2015": "../esm2015/color-picker/mtxColorPicker.js",
+  "fesm5": "../fesm5/mtxColorPicker.js",
+  "fesm2015": "../fesm2015/mtxColorPicker.js",
+  "typings": "mtxColorPicker.d.ts",
+  "metadata": "mtxColorPicker.metadata.json",
+  "sideEffects": false,
+  "name": "@ng-matero/extensions/color-picker"
+}

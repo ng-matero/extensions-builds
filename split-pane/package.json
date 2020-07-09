@@ -1,0 +1,13 @@
+{
+  "main": "../bundles/mtxSplit.umd.js",
+  "module": "../fesm5/mtxSplit.js",
+  "es2015": "../fesm2015/mtxSplit.js",
+  "esm5": "../esm5/split-pane/mtxSplit.js",
+  "esm2015": "../esm2015/split-pane/mtxSplit.js",
+  "fesm5": "../fesm5/mtxSplit.js",
+  "fesm2015": "../fesm2015/mtxSplit.js",
+  "typings": "mtxSplit.d.ts",
+  "metadata": "mtxSplit.metadata.json",
+  "sideEffects": false,
+  "name": "@ng-matero/extensions/split-pane"
+}
